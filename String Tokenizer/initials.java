@@ -1,4 +1,4 @@
-package StringTokenizer;
+//print initials of words in a sentence.
 
 import java.util.*;
 public class initials
