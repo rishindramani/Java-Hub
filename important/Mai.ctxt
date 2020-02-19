@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mai
+comment1.params=n
+comment1.target=boolean\ checkPrime(int)
+comment2.params=n
+comment2.target=boolean\ checkeven(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

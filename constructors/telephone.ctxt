@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=telephone
+comment1.params=
+comment1.target=telephone()
+comment2.params=na1\ add1\ tel1\ n1
+comment2.target=telephone(java.lang.String,\ java.lang.String,\ long,\ int)
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

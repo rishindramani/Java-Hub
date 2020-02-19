@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bugc
+comment1.params=str\ x
+comment1.target=int\ value1(java.lang.String,\ char)
+comment2.params=str\ x
+comment2.target=int\ value2(java.lang.String,\ char)
+comment3.params=str\ x
+comment3.target=int\ value3(java.lang.String,\ char)
+comment4.params=s1\ s2
+comment4.target=void\ main34(java.lang.String,\ java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

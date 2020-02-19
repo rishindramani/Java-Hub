@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Java2r
+comment1.params=str\ x
+comment1.target=int\ value1(java.lang.String,\ char)
+comment2.params=str\ x
+comment2.target=int\ value2(java.lang.String,\ char)
+comment3.params=str\ x
+comment3.target=int\ value3(java.lang.String,\ char)
+comment4.params=s
+comment4.target=void\ main34(java.lang.String)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
