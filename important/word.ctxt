@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=word
-comment1.params=n
-comment1.target=void\ fun(java.lang.String)
-comment2.params=s1
-comment2.target=int\ pal(java.lang.String)
-numComments=3

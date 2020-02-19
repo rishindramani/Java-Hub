@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=spiral
-comment1.params=ar
-comment1.target=void\ main(java.lang.String[])
-comment2.params=m
-comment2.target=void\ f1(int)
-comment3.params=m
-comment3.target=void\ f2(int)
-numComments=4
