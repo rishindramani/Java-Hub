@@ -1,4 +1,5 @@
-package StringTokenizer;
+//sorting words in a sentence
+
 import java.util.*;
 public class hh
 {
